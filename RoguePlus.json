@@ -1,0 +1,48 @@
+{
+    "manifest": {
+        "author": "cyriotic3",
+        "name": "Rogue+",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/RoguePlus\/main\/RoguePlus.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 866650144,
+        "accent": -5765088,
+        "input_background": -16777216,
+        "statusbar": -16777216
+    },
+    "colors": {
+        "brand_new_560": 0,
+        "link": -5765088,
+        "primary_700": -14145496,
+        "primary_dark_200": -1,
+        "primary_dark_300": -1,
+        "primary_dark_400": -8421505,
+        "primary_dark_600": -16777216,
+        "primary_dark_630": -16777216,
+        "primary_dark_660": -16777216,
+        "primary_dark_700": -16777216,
+        "primary_dark_800": -16777216,
+        "uikit_btn_bg_color_selector_red": -5765088,
+        "uikit_btn_compound_color_selector_dark": -5765088,
+        "primary_dark_360": -8421505
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -5765088,
+        "drawable_button_red": -5765088,
+        "drawable_overlay_channels_selected_dark": -14145496,
+        "drawable_voice_sensitivity_progress": -5765088,
+        "drawable_voice_user_background_speaking": -8184040,
+        "ic_channel_announcements": -1,
+        "ic_channel_text": -1,
+        "ic_channel_text_locked": -1,
+        "ic_channel_text_nsfw": -1,
+        "ic_sidebar_notifications_off_dark_24dp": -8421505,
+        "ic_sidebar_notifications_on_dark_24dp": -1,
+        "ic_sidebar_pins_off_dark_24dp": -1,
+        "ic_group_message_header": -1,
+        "ic_direct_message_header": -1
+    }
+}
