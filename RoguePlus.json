@@ -2,7 +2,7 @@
     "manifest": {
         "author": "cyriotic3",
         "name": "Rogue+",
-        "version": "1.0.0",
+        "version": "1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/RoguePlus\/main\/RoguePlus.json"
     },
     "background": {},
@@ -34,7 +34,7 @@
         "drawable_button_red": -5765088,
         "drawable_overlay_channels_selected_dark": -14145496,
         "drawable_voice_sensitivity_progress": -5765088,
-        "drawable_voice_user_background_speaking": -8184040,
+        "drawable_voice_user_background_speaking": -1,
         "ic_channel_announcements": -1,
         "ic_channel_text": -1,
         "ic_channel_text_locked": -1,
@@ -43,6 +43,7 @@
         "ic_sidebar_notifications_on_dark_24dp": -1,
         "ic_sidebar_pins_off_dark_24dp": -1,
         "ic_group_message_header": -1,
-        "ic_direct_message_header": -1
+        "ic_direct_message_header": -1,
+        "ic_menu_24dp": -1
     }
 }
