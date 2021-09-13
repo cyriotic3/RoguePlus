@@ -13,6 +13,11 @@
 
 ## Changelogs
 
+**v1.0.2**
+
+    added ic_menu_24dp
+    changed drawable_voice_user_background_speaking colour from whatever it was before to #ffffff
+
 **v1.0.0**
 
     initial release
