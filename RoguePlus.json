@@ -2,7 +2,7 @@
     "manifest": {
         "author": "cyriotic3",
         "name": "Rogue+",
-        "version": "1.0.3",
+        "version": "1.0.7",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/RoguePlus\/main\/RoguePlus.json"
     },
     "background": {},
@@ -14,7 +14,7 @@
         "statusbar": -16777216
     },
     "colors": {
-        "brand_new_560": 0,
+        "brand_new_560": -10983950,
         "link": -5765088,
         "primary_700": -14145496,
         "primary_dark_200": -1,
@@ -28,7 +28,9 @@
         "uikit_btn_bg_color_selector_red": -5765088,
         "uikit_btn_compound_color_selector_dark": -5765088,
         "primary_dark_360": -8421505,
-        "uikit_settings_item_text_color_dark": -1
+        "uikit_settings_item_text_color_dark": -1,
+        "abc_tint_switch_track": -16777216,
+        "uikit_settings_item_text_color_light": -8421505
     },
     "drawable_tints": {
         "drawable_button_grey": -5765088,
@@ -45,6 +47,7 @@
         "ic_sidebar_pins_off_dark_24dp": -1,
         "ic_group_message_header": -1,
         "ic_direct_message_header": -1,
-        "ic_menu_24dp": -1
+        "ic_menu_24dp": -1,
+        "ic_sidebar_search_24dp": -1
     }
 }
