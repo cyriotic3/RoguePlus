@@ -2,7 +2,7 @@
     "manifest": {
         "author": "cyriotic3",
         "name": "Rogue+",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/RoguePlus\/main\/RoguePlus.json"
     },
     "background": {},
@@ -30,7 +30,7 @@
         "primary_dark_360": -8421505,
         "uikit_settings_item_text_color_dark": -1,
         "abc_tint_switch_track": -16777216,
-        "uikit_settings_item_text_color_light": -8421505
+        "uikit_settings_item_text_color_light": -14145496
     },
     "drawable_tints": {
         "drawable_button_grey": -5765088,
