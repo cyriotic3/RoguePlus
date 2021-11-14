@@ -13,6 +13,10 @@
 
 ## Changelogs
 
+**v1.0.8**
+
+    changed uikit_settings_item_text_color_light from #7f7f7f to #282828
+
 **v1.0.7**
 
     added abc_tint_switch_track, uikit_settings_item_text_color_light & ic_sidebar_search_24dp
